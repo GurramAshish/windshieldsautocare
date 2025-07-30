@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/windshieldsautocare/static/css/main.e6c13ad2.css",
+    "main.js": "/windshieldsautocare/static/js/main.e0d9d020.js",
+    "static/js/453.fd56f119.chunk.js": "/windshieldsautocare/static/js/453.fd56f119.chunk.js",
+    "index.html": "/windshieldsautocare/index.html",
+    "main.e6c13ad2.css.map": "/windshieldsautocare/static/css/main.e6c13ad2.css.map",
+    "main.e0d9d020.js.map": "/windshieldsautocare/static/js/main.e0d9d020.js.map",
+    "453.fd56f119.chunk.js.map": "/windshieldsautocare/static/js/453.fd56f119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e0d9d020.js"
+  ]
+}
