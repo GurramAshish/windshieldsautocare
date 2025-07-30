@@ -117,7 +117,7 @@ export default function App() {
           </main>
 
           <footer>
-            © 2025 Windshield World SD AutoCare. All rights reserved.
+            © 2025 Windshield World SD Auto Care. All rights reserved.
           </footer>
         </div>
       </Router>
