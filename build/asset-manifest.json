@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/windshieldsautocare/static/css/main.e6c13ad2.css",
-    "main.js": "/windshieldsautocare/static/js/main.3adf795d.js",
-    "static/js/453.fd56f119.chunk.js": "/windshieldsautocare/static/js/453.fd56f119.chunk.js",
-    "index.html": "/windshieldsautocare/index.html",
-    "main.e6c13ad2.css.map": "/windshieldsautocare/static/css/main.e6c13ad2.css.map",
-    "main.3adf795d.js.map": "/windshieldsautocare/static/js/main.3adf795d.js.map",
-    "453.fd56f119.chunk.js.map": "/windshieldsautocare/static/js/453.fd56f119.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.6012e51b.js",
+    "static/js/453.fd56f119.chunk.js": "/static/js/453.fd56f119.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.6012e51b.js.map": "/static/js/main.6012e51b.js.map",
+    "453.fd56f119.chunk.js.map": "/static/js/453.fd56f119.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3adf795d.js"
+    "static/js/main.6012e51b.js"
   ]
 }
