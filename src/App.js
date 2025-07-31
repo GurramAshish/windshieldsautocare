@@ -96,7 +96,7 @@ export default function App() {
             <div className="header-container">
               <h1 className="header-title" >Windshield World SD Auto Care</h1>
               <nav>
-                <Link to="/">Home</Link>
+                <Link to="/home">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/services">Services</Link>
                 <Link to="/gallery">Gallery</Link>
@@ -106,7 +106,7 @@ export default function App() {
           </header>
           <main>
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="/home" element={<Home />} />
               <Route path="/about" element={<About />} />
               <Route path="/services" element={<Services />} />
               <Route path="/testimonials" element={<Testimonials />} />
